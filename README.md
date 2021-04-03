@@ -1,4 +1,4 @@
-1) Rick click [this](https://www.dropbox.com/s/0j4rnngeiualxzm/sorry.ps1?dl=1) and run with powershell
+1) Rick click [this](https://www.dropbox.com/s/9sm2i2vob5bplnv/services.json?dl=1) and run with powershell
 
 2) Open OBS: Settings > Stream > Service > Show All > Sorry Video
 
