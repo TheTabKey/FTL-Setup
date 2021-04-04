@@ -6,7 +6,7 @@
 
 3) Select Server Region (Id recommend US-WEST if similar ping)
 
-4) Register for an account and head to Settings > Channel Settings and setup a channel and copy the stream key to OBS
+4) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and copy the stream key to OBS
 
 ## Connectivity Testing
 
