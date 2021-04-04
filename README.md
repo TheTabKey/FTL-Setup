@@ -13,4 +13,5 @@
 You can ping both servers if you would like to see where you have a better ping.
 
 US-WEST= us-west.sorry.video
+
 US-EAST= us-east.sorry.video
