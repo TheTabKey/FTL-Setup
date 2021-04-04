@@ -12,6 +12,14 @@
 
 You can ping both servers if you would like to see where you have a better ping.
 
-US-WEST= us-west.sorry.video
+US-WEST
 
-US-EAST= us-east.sorry.video
+```bash
+ping us-west.sorry.video
+```
+
+US-EAST
+
+```bash
+ping us-east.sorry.video
+```
