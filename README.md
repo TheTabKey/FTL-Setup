@@ -4,7 +4,7 @@
 
 2) Open OBS: Settings > Stream > Service > Show All > Sorry Video
 
-3) Select Server Region (Id recommend US-WEST if similar ping)
+3) Select Server Region
 
 4) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and copy the stream key to OBS
 
