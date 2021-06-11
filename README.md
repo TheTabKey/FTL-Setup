@@ -8,7 +8,12 @@
 
 4) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and copy the stream key
 
-5) go to C:\Users\[USERNAME]\AppData\Roaming\obs-studio\plugin_config\rtmp-services and right click and make it read only/hidden
+5) go to 
+ ```cmd
+C:\Users\[USERNAME]\AppData\Roaming\obs-studio\plugin_config\rtmp-services 
+```
+right click -> properties and make it read only/hidden
+![alt text](https://i.imgur.com/ri5Fe5X.png)
 
 6) Open obs -> Settings -> Stream
 
