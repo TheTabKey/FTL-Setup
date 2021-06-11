@@ -12,7 +12,7 @@
  ```cmd
 C:\Users\[USERNAME]\AppData\Roaming\obs-studio\plugin_config\rtmp-services 
 ```
-right click -> properties and make it read only/hidden
+right click -> properties and make it read only/hidden  
 ![alt text](https://i.imgur.com/ri5Fe5X.png)
 
 6) Open obs -> Settings -> Stream
