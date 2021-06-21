@@ -2,7 +2,7 @@
 
 1) Right click [this](https://www.dropbox.com/s/47x6vwythz6zi0o/sorry.ps1?dl=1) and run with powershell
 
-2) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and copy the stream key
+2) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and have stream key ready
 
 3) go to 
  ```cmd
