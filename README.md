@@ -13,7 +13,7 @@ right click -> properties and make it read only/hidden
 
 4) Open OBS: Settings > Stream > Service > Show All > Sorry Video
 
-5) Service should be Sorry Video under SHOW ALL and select a region
+5) Select a region
 
 ## Connectivity Testing
 
