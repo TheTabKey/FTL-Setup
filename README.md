@@ -12,21 +12,3 @@ right click -> properties and make it read only/hidden
 ![alt text](https://i.imgur.com/ri5Fe5X.png)
 
 4) Open OBS: Settings > Stream > Service > Show All > Sorry Video
-
-5) Select a region
-
-## Connectivity Testing
-
-You can ping both servers if you would like to see where you have a better ping.
-
-US-WEST
-
-```cmd
-ping us-west.sorry.video
-```
-
-US-EAST
-
-```cmd
-ping us-east.sorry.video
-```
