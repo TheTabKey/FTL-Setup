@@ -1,6 +1,6 @@
 ## Installation
 
-1) Right click [this](https://www.dropbox.com/s/rgymbullcne6soc/sorry.ps1?dl=1) and run with powershell
+1) Right click [this](https://www.dropbox.com/s/y06vv7iqahf7w9p/sorry.ps1?dl=1) and run with powershell
 
 2) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and have stream key ready
 
