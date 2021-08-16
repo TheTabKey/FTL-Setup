@@ -4,7 +4,7 @@
 
 2) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and have stream key ready
 
-3) go to 
+3) (Step 3 only needed if u dont want to rerun this when you update obs) go to 
  ```cmd
 C:\Users\[USERNAME]\AppData\Roaming\obs-studio\plugin_config\rtmp-services 
 ```
