@@ -1,6 +1,6 @@
 ## Installation
 
-1) Right click [this](https://www.dropbox.com/s/y06vv7iqahf7w9p/sorry.ps1?dl=1) and run with powershell
+1) Right click [this](https://www.dropbox.com/s/y06vv7iqahf7w9p/sorry.ps1?dl=1) and run with powershell (Make sure obs is closed and not running in the background)
 
 2) Register for an account and head to [Channel Settings](https://sorry.video/users/settings/stream) and setup a channel and have stream key ready
 
