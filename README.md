@@ -1,7 +1,7 @@
 ## Setup
 1) 
 ```cmd
-ftl://sorry.video
+ftl://stream.sorry.video
 ```
 ![alt text](https://i.imgur.com/GKvCVnw.png)
 
