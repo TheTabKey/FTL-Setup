@@ -11,10 +11,6 @@ Dallas, TX (US-CENTRAL)
 ```cmd
 ftl://us-central.sorry.video
 ```
-Hillsboro, OR (US-WEST)
-```cmd
-ftl://us-west.sorry.video
-```
 ![alt text](https://i.imgur.com/GKvCVnw.png)
 
 ## Step 2
