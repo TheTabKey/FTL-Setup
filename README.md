@@ -1,4 +1,8 @@
 ## Step 1
+Stable (Recommended)
+```cmd
+ftl://stream.sorry.video
+```
 Vint Hill, VA (US-EAST)
 ```cmd
 ftl://us-east.sorry.video
