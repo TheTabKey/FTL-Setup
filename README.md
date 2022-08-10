@@ -7,3 +7,8 @@ ftl://stream.sorry.video
 
 ## Step 2
 ![alt text](https://i.imgur.com/998nIOT.png)
+
+
+
+## Connection troubleshooting
+https://raw.githubusercontent.com/TheTabKey/FTL-Setup/main/WinMTR-v092.zip
