@@ -11,9 +11,9 @@ ftl://stream.sorry.video
 
 
 ## Connection troubleshooting
-Windows
+# Windows
 [WinMTR](https://raw.githubusercontent.com/TheTabKey/FTL-Setup/main/WinMTR-v092.zip)
-MacOS
+# MacOS
 ```cmd
 yum install mtr
 ``` 
